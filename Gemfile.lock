@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    thor (0.19.1)
+    thor-scmversion (1.4.0)
+      thor
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  thor-scmversion
